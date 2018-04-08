@@ -1,0 +1,15 @@
+
+class: luigi
+costumes:
+- chatcolor: '&2'
+  name:  §2L§9ui§2gi
+  sig: http://eyj0aw1lc3rhbxaioje1mjmymtk5mda3mzqsinbyb2zpbgvjzci6ijjhnjnlnda1zwvjzjq4mge5zmnmmwuymmi5otzkotk4iiwichjvzmlszu5hbwuioijsb3j5rgfqyw5kysisinnpz25hdhvyzvjlcxvpcmvkijp0cnvllcj0zxh0dxjlcyi6eyjts0loijp7invybci6imh0dha6ly90zxh0dxjlcy5taw5ly3jhznqubmv0l3rlehr1cmuvztc3yzm5ntg4mmvjmtkznzu0mzqxntflmge5ogm3oge2otm0oguzymqzmwzlmjezngu3ntlmyjnlzji1njrhin19fq%3D%3D/
+  val: 
+effects: []
+items: []
+powers:
+- /jump 0-6
+jump: 6
+speech: It's a me Luigi!
+trail: [
+  ]
