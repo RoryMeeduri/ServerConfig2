@@ -36,6 +36,7 @@ powers:
 - /float up/down/hover/stop
 - /gravityshift
 - /gravityshiftstop
+- /tp <plr>
 run: 1
 speech: Let's get strange!
 trail: [
