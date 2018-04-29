@@ -23,6 +23,7 @@ permissions:
   - ch.alias.carryplayer
   - ch.alias.dropplayer
   - ch.alias.web
+  - powers.herotransform
 powers:
 - /effects
 - /items
@@ -40,6 +41,7 @@ powers:
 - With an empty hand, right click the air and you will sling web out from your hand.
   You can use it to swing around the city! If you cannot move, press shift to dismount
   the invisible mob.
+- /herotransform
 run: 4
 speech: With great power comes great responsibility.
 trail: [
