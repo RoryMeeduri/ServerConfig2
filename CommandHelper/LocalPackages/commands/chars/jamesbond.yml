@@ -1,0 +1,22 @@
+class: jamesbond
+costumes:
+- chatcolor: '&8'
+  name: §Ja§8me§7s Bo§8nd
+  sig: UCeX7jpxWLEW+pDB3p5wzlFvTNkCL58hE2Z6LAGcSRrJ/G/laRSn+bcBh4f0KXuEAx1Z+0rDVcDVwlUflGh7IoqULsGzc4xjXmIcdBZeV8orBVpwmtF6g+3f3NEU52TvScT5HuRGHyCa2jeFE63+FPAHc0U1HEcw5Z+HWQ5UkwJmcawBiDjOze+cGHILNsWSEyxQ9mlyoEZXRC3eXnsNy3oO38USOND/1LsPxmWRnZg/TjBVwxbPdQuM3fgY2ZsIqcgcxiq7XWYIrMgQk+SLyHB4U3RoOF4OIZdFaNwi1nxOTbXLqSYeSWr0y1Xb4NWJohB65NIcGN8b1dr/5orjmhYoeWLuSog4XTfYdXlXUixvc1XBbtpYYe2OqppdC0F7VmPIR3br71qwI2TF85slsudUcCC1CEg+wnyFb86G8kCggdP2Q8DfjWs4yZrA8X2CK2epuzPRbrrn/GxeKIs/RwSsyNxAEjDZTrzv9H8A29tOcZLMi5Lj9K0cjZLzEbi2jTJdYO+P/BZwSVT5otftCDcHyPcWzPj2Y5tES8C6CT7nOixJ0PaHzFMXH7D5jSNcX5Fs3kF7Uh4trqETGO/VjYWYmIzIqtF9R3hEg3CrYLixgXzqykZuVleflhTJlgJXyfk6Jz/2GIlEU6FrUE6zBO6jWCSJgEz/pNb24T/dXcc=
+  val: eyJ0aW1lc3RhbXAiOjE1MjUzODE5MTIyNjcsInByb2ZpbGVJZCI6IjJhNjNlNDA1ZWVjZjQ4MGE5ZmNmMWUyMmI5OTZkOTk4IiwicHJvZmlsZU5hbWUiOiJSb3J5RGFQYW5kYSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmE3ZTUzYjUyYmQ2MWZmMDliZDk0ZDEzM2M2YWNjOTcyNjM4YTFhYzEzNmE1NTgxNzE5Y2VlNjk4MjUxN2Y1In19fQ==
+effects:
+items:
+- /shot give <plr> pistol
+- /shot give <plr> pistol
+jump: 4
+maxHearts: 20
+permissions:
+  superherocity:
+powers:
+- /effects
+- /items
+- /run 0-2
+run: 2
+speech: Tomarrow never dies
+trail: [
+  ]
