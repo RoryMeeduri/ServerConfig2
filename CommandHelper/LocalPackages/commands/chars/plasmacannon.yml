@@ -9,8 +9,8 @@ plasmacannon:
         Projectile_Amount: 1
         Projectile_Type: energy
         Projectile_Subtype: 40-1-NONE-0
-        Projectile_Damage: 50
-        Delay_Between_Shots: 50
+        Projectile_Damage: 5
+        Delay_Between_Shots: 5
     Reload:
         Enable: false
     Hit_Events:
