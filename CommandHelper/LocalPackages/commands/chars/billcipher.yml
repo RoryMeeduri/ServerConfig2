@@ -1,0 +1,118 @@
+class: billcipher
+costumes:
+- chatcolor: '&e'
+  name: §0B§ei§ol§el Cip§0he§er
+  sig: ARP8GLvB1ZYbBllA23u+ol2wJaKynhEBJp7gGjMzFItvsuF3u3czuiKgnGztGeco5TwBdR4M2hMQ9brDt99GfDXpgcfLPjE9dZvyz2+9tkQTXnehPLb2G7+fDp44ci3SHhbkXOBxy5mxJugpvZhiGBUrShKB4GM7R7zl661R/xXr3E6F8mOwWK06TaVhKy/vSCH+Kvs4/WHkHFcXnQ8eb3TN6aumvjWlZZHQQLfo4vLDJNDeU+SZLviM0uETYT9ZEZf76CWHlDrkdyHP83YyHlSQUsNK/fP9gxQnSc9XXoczEPnkSOEg2csBrMX1i+SSdUzbRF5GsZekivBiO5MRvyEmBcVdfTtR7ZJS8oA6uyTdPCSK6UCK/rplRdD3QzT3RMWvlY+6CTIQpega4amjChwiASzW2GYhrFgjhRgczKgO2L9Y6sCm4qO+wAchwM2PDUXvKaQMlNDpwv+rmo86O1Fc6ilnM1OaD8JzzKIemLheFOdN1dJkEYB2NCel+5BcQHldp/plv8Zg+OKXDNhQ+Z7ZZJL1u+LgqD0wk88Hr6cpWHLSbKXFn7zNmpKoxnnqzKges5pom057Y6dmkavR/n6JGSg8x1qe+VJE9pviJsKio0Uq7SlC0WVPU5nLwnvMeSOHkDgitdck22yY2nWimX2KVBJb/4WowBhjYvIv4A8=
+  val: eyJ0aW1lc3RhbXAiOjE1Mjg3NDAwNDM3ODQsInByb2ZpbGVJZCI6IjJhNjNlNDA1ZWVjZjQ4MGE5ZmNmMWUyMmI5OTZkOTk4IiwicHJvZmlsZU5hbWUiOiJTcGlyYWxTYW50YSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE0MjgxZTY1NGQ0ZGFkMGQ4MGRmMTU0MjQ0YzdlYzc2NWY3YTgzZjlkYWY5NzM0YThmZjQ3YTJjODQ4NmQ3YiJ9fX0=
+effects: - /effect <plr> 5 9999 10 true
+- /effect <plr> 10 9999 2 true
+- /effect <plr> 11 9999 3 true
+haste: 3
+items: 
+  - /shot give <plr> blueenergybeam
+jump: 4
+permissions:
+  superherocity:
+  - ch.alias.create
+  - ch.alias.tphere
+  - ch.alias.tp
+  - libsdisguises.disguise
+  - libsdisguises.undisguise
+  - libsdisguises.disguise.bat.-setinvisible
+  - libsdisguises.disguise.blaze.-setinvisible
+  - libsdisguises.disguise.cave_spider.-setinvisible
+  - libsdisguises.disguise.chicken.-setinvisible
+  - libsdisguises.disguise.cow.-setinvisible
+  - libsdisguises.disguise.creeper.-setinvisible
+  - libsdisguises.disguise.donkey.-setinvisible
+  - libsdisguises.disguise.elder_guardian.-setinvisible
+  - libsdisguises.disguise.enderman.-setinvisible
+  - libsdisguises.disguise.endermite.-setinvisible
+  - libsdisguises.disguise.ghast.-setinvisible
+  - libsdisguises.disguise.giant.-setinvisible
+  - libsdisguises.disguise.guardian.-setinvisible
+  - libsdisguises.disguise.horse.-setinvisible
+  - libsdisguises.disguise.iron_golem.-setinvisible
+  - libsdisguises.disguise.magma_cube.-setinvisible
+  - libsdisguises.disguise.mule.-setinvisible
+  - libsdisguises.disguise.mushroom_cow.-setinvisible
+  - libsdisguises.disguise.ocelot.-setinvisible
+  - libsdisguises.disguise.pig.-setinvisible
+  - libsdisguises.disguise.pig_zombie.-setinvisible
+  - libsdisguises.disguise.rabbit.-setinvisible
+  - libsdisguises.disguise.sheep.-setinvisible
+  - libsdisguises.disguise.silverfish.-setinvisible
+  - libsdisguises.disguise.skeleton.-setinvisible
+  - libsdisguises.disguise.skeleton_horse.-setinvisible
+  - libsdisguises.disguise.slime.-setinvisible
+  - libsdisguises.disguise.snowman.-setinvisible
+  - libsdisguises.disguise.spider.-setinvisible
+  - libsdisguises.disguise.squid.-setinvisible
+  - libsdisguises.disguise.undead_horse.-setinvisible
+  - libsdisguises.disguise.villager.-setinvisible
+  - libsdisguises.disguise.witch.-setinvisible
+  - libsdisguises.disguise.wither.-setinvisible
+  - libsdisguises.disguise.wither_skeleton.-setinvisible
+  - libsdisguises.disguise.wolf.-setinvisible
+  - libsdisguises.disguise.zombie.-setinvisible
+  - libsdisguises.disguise.zombie_villager.-setinvisible
+  - powers.depower
+  - -esssentials.warps.*
+  - essentials.back
+  - -essentials.protect.damage.fall
+  - essentials.tppos
+  - essentials.fly
+  - ch.alias.explode
+  - powers.cloneself
+  - ch.alias.grow
+  - ch.alias.shrink
+  - ch.alias.normalsize
+  - ch.alias.intangible
+  - ch.alias.tangible
+  - ch.alias.invis
+  - ch.alias.vis
+ #- ch.alias.stopmindcontrol
+  - powers.mindcontrol
+  - essentials.speed.fly
+  - ch.alias.magicpush
+  - ch.alias.flame
+  - ch.alias.grouptp
+  - -essentials.protect.damage.fall
+  - ch.alias.portaltp
+  - ch.alias.tpradius
+powers:
+- /effects
+- /items
+- /jump 0-4
+- /run 0-6
+- /haste 0-3
+- /fly
+- /depower <player>
+- /disguise
+- /create <item> <quantity> <color>
+- /undisguise
+- /disguiseviewself
+- /back
+- /tppos <x> <y> <z>
+- /tp
+- /explode <player>
+- /cloneself
+- /shrink
+- /normalsize
+- /grow
+- /intangible
+- /tangible
+- /invis
+- /vis
+- /mindcontrol <player>
+- /stopmindcontrol
+- /speak <player> <message>
+- /magicpush <player>
+- /flame <player>
+- /grouptp <player>
+- /portaltp <plr>
+- /tpradius
+run: 6
+speech: Let's play a game.
+trail: [
+  ]
