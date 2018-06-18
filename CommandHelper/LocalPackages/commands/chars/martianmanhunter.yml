@@ -38,6 +38,7 @@ permissions:
   - libsdisguises.disguise.player
   - ch.alias.intangible
   - ch.alias.tangible
+  - powers.forget
 powers:
 - /effects
 - /items
@@ -63,6 +64,7 @@ powers:
 - /undisguise
 - /mindlock <player>
 - /msg <player>
+- /forget <player>
 run: 8
 speech: The future is worth it. The pain. The tears. The future is worth the fight.
 trail: [
